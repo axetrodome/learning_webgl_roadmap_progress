@@ -21,3 +21,8 @@ July 25, 2020 | 3h
 Date | Time spent
 ------------ | -------------
 July 26, 2020 | 2h
+
+## Learning OpenGL
+Date | Time spent
+------------ | -------------
+July 27, 2020 | 2h
