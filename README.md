@@ -3,8 +3,8 @@ This is just to track my learning progress on web GL
 
 ## Requirements for learning WebGL
 - [x] Learn C
-- [ ] Learn C++
-- [ ] Learn OpenGL
+- [x] Learn C++
+- [x] Learn OpenGL
 
 ## Continue learning WebGL after learning C/C++ and OpenGL
 - [ ] Learn WebGL
@@ -26,3 +26,8 @@ July 26, 2020 | 2h
 Date | Time spent
 ------------ | -------------
 July 27, 2020 | 2h
+July 28, 2020 | 2h
+
+## Learning WebGL
+Date | Time spent
+------------ | -------------
