@@ -31,3 +31,4 @@ July 28, 2020 | 2h
 ## Learning WebGL
 Date | Time spent
 ------------ | -------------
+July 29, 2020 | 3h
