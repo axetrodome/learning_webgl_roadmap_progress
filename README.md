@@ -34,3 +34,4 @@ Date | Time spent
 July 28, 2020 | 3h
 July 29, 2020 | 30m
 July 30, 2020 | 1h
+July 31, 2020 | 30m
