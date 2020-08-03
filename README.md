@@ -37,3 +37,4 @@ July 30, 2020 | 1h
 July 31, 2020 | 30m
 August 01, 2020 | 10m
 August 02, 2020 | 
+August 03, 2020 | 2h 
