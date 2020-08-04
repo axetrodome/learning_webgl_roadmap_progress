@@ -38,3 +38,4 @@ July 31, 2020 | 30m
 August 01, 2020 | 10m
 August 02, 2020 | 
 August 03, 2020 | 2h 
+August 04, 2020 | 4h 
