@@ -41,3 +41,4 @@ August 03, 2020 | 2h
 August 04, 2020 | 4h 
 August 05, 2020 | 4h 
 August 06, 2020 | 3h 
+August 07, 2020 | 4h 
