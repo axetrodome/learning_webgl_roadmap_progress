@@ -43,4 +43,6 @@ August 05, 2020 | 4h
 August 06, 2020 | 3h 
 August 07, 2020 | 4h 
 August 08, 2020 | 1h 
-August 09, 2020 | 30m 
+August 09, 2020 | 30m
+August 10, 2020 | 1h
+
