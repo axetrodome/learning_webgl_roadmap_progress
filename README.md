@@ -46,4 +46,5 @@ August 08, 2020 | 1h
 August 09, 2020 | 30m
 August 10, 2020 | 1h
 August 11, 2020 | 30m
+August 12, 2020 | 1h
 
