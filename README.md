@@ -9,6 +9,16 @@ This is just to track my learning progress on web GL
 ## Continue learning WebGL after learning C/C++ and OpenGL
 - [ ] Learn WebGL
 
+## Extra learning
+- [ ] Learn Math Matrix
+
+# Extra Learning lessons
+
+## Learning Matrices
+Date | Time spent
+------------ | -------------
+Aug 13, 2020 | 2h
+
 
 # Learning Sessions
 ## Learning C
@@ -47,4 +57,5 @@ August 09, 2020 | 30m
 August 10, 2020 | 1h
 August 11, 2020 | 30m
 August 12, 2020 | 1h
+August 13, 2020 | 0m
 
