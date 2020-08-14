@@ -18,7 +18,7 @@ This is just to track my learning progress on web GL
 Date | Time spent
 ------------ | -------------
 Aug 13, 2020 | 2h
-
+Aug 13, 2020 | 4h
 
 # Learning Sessions
 ## Learning C
@@ -58,4 +58,5 @@ August 10, 2020 | 1h
 August 11, 2020 | 30m
 August 12, 2020 | 1h
 August 13, 2020 | 0m
+August 14, 2020 | 0m
 
