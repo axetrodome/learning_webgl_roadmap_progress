@@ -10,7 +10,7 @@ This is just to track my learning progress on web GL
 - [ ] Learn WebGL
 
 ## Extra learning
-- [ ] Learn Math Matrix
+- [ ] Learn Matrices
 
 # Extra Learning lessons
 
