@@ -20,6 +20,11 @@ Date | Time spent
 Aug 13, 2020 | 2h
 Aug 14, 2020 | 4h
 
+## Learning Perspective
+Date | Time spent
+------------ | -------------
+Aug 20, 2020 | 1h
+
 # Learning Sessions
 ## Learning C
 Date | Time spent
@@ -46,7 +51,7 @@ July 29, 2020 | 30m
 July 30, 2020 | 1h
 July 31, 2020 | 30m
 August 01, 2020 | 10m
-August 02, 2020 | 
+August 02, 2020 | 0m
 August 03, 2020 | 2h 
 August 04, 2020 | 4h 
 August 05, 2020 | 4h 
@@ -64,4 +69,5 @@ August 16, 2020 | 30m
 August 17, 2020 | 2h
 August 18, 2020 | 2h
 August 19, 2020 | 10m
+August 20, 2020 | 0m
 
