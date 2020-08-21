@@ -70,4 +70,5 @@ August 17, 2020 | 2h
 August 18, 2020 | 2h
 August 19, 2020 | 10m
 August 20, 2020 | 0m
+August 21, 2020 | 1h
 
