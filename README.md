@@ -11,7 +11,12 @@ This is just to track my learning progress on web GL
 
 ## Extra learning
 - [ ] Learn Matrices
-
+## Absent counts
+Date | Reason
+------------ | -------------
+Aug 22, 2020 | Too lazy
+Aug 23, 2020 | Too lazy
+Total | 2
 # Extra Learning lessons
 
 ## Learning Matrices
@@ -73,3 +78,4 @@ August 20, 2020 | 0m
 August 21, 2020 | 1h
 August 22, 2020 | 0m
 August 23, 2020 | 0m
+August 24, 2020 | 30m
