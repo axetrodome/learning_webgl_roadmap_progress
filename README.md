@@ -16,6 +16,7 @@ Date | Reason
 ------------ | -------------
 Aug 22, 2020 | Too lazy
 Aug 23, 2020 | Too lazy
+ug 26, 2020 | Need to finish tasks on work
 Total | 2
 # Extra Learning lessons
 
