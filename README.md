@@ -3,7 +3,7 @@ This is just to track my learning progress on web GL
 
 ## Requirements for learning WebGL
 - [x] Learn C
-- [x] Learn C++
+- [x] Learn C++I 
 - [x] Learn OpenGL
 
 ## Continue learning WebGL after learning C/C++ and OpenGL
@@ -16,10 +16,11 @@ Date | Reason
 ------------ | -------------
 Aug 22, 2020 | Too lazy
 Aug 23, 2020 | Too lazy
-ug 26, 2020 | Need to finish tasks on work
+Aug 26, 2020 | Need to finish tasks on work
 August 27, 2020 | Need to finish feature on my task
 August 28, 2020 | finished a task
-Total | 4
+August 31, 2020 | I played online games with friends and finished good manga
+Total | 5
 # Extra Learning lessons
 
 ## Learning Matrices
@@ -88,3 +89,4 @@ August 27, 2020 | 0m
 August 28, 2020 | 0m
 August 29, 2020 | 1h
 August 30, 2020 | 1h
+August 31, 2020 | 0m
