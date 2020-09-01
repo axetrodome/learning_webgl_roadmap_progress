@@ -90,3 +90,4 @@ August 28, 2020 | 0m
 August 29, 2020 | 1h
 August 30, 2020 | 1h
 August 31, 2020 | 0m
+September 01, 2020 | 30m
