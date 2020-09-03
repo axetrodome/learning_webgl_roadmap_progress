@@ -20,7 +20,8 @@ Aug 26, 2020 | Need to finish tasks on work
 August 27, 2020 | Need to finish feature on my task
 August 28, 2020 | finished a task
 August 31, 2020 | I played online games with friends and finished good manga
-Total | 5
+September 03, 2020 | I'm tired
+Total | 6
 # Extra Learning lessons
 
 ## Learning Matrices
@@ -92,3 +93,4 @@ August 30, 2020 | 1h
 August 31, 2020 | 0m
 September 01, 2020 | 30m
 September 02, 2020 | 30m
+September 03, 2020 | 0m
