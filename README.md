@@ -97,3 +97,4 @@ September 02, 2020 | 30m
 September 03, 2020 | 0m
 September 04, 2020 | 30m
 September 05, 2020 | 0m
+September 06, 2020 | 30m
