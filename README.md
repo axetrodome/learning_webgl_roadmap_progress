@@ -100,3 +100,4 @@ September 05, 2020 | 0m
 September 06, 2020 | 30m
 September 07, 2020 | 10m
 September 08, 2020 | 2h
+September 09, 2020 | 30m
