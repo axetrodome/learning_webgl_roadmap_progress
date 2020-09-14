@@ -24,7 +24,8 @@ September 03, 2020 | I'm tired
 September 05, 2020 | Too busy playing
 September 12, 2020 | Too busy playing
 September 13, 2020 | Too busy playing
-Total | 9
+September 14, 2020 | Overtime just to finish a feature
+Total | 10
 # Extra Learning lessons
 
 ## Learning Matrices
@@ -107,3 +108,4 @@ September 10, 2020 | 1h
 September 11, 2020 | 30m
 September 12, 2020 | 0m
 September 13, 2020 | 0m
+September 14, 2020 | 0m
