@@ -110,3 +110,4 @@ September 12, 2020 | 0m
 September 13, 2020 | 0m
 September 14, 2020 | 0m
 September 15, 2020 | 10m
+September 16, 2020 | 30m
