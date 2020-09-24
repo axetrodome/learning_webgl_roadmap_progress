@@ -114,3 +114,8 @@ September 16, 2020 | 30m
 September 17, 2020 | 10m
 September 18, 2020 | 30m
 September 19, 2020 | 10m
+September 20, 2020 | 0m
+September 21, 2020 | 0m
+September 22, 2020 | 0m
+September 23, 2020 | 0m
+September 24, 2020 | 1h
