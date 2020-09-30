@@ -7,7 +7,7 @@ This is just to track my learning progress on web GL
 - [x] Learn OpenGL
 
 ## Continue learning WebGL after learning C/C++ and OpenGL
-- [ ] Learn WebGL
+- [x] Learn WebGL
 
 ## Extra learning
 - [x] Learn Matrices
