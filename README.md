@@ -121,4 +121,4 @@ September 23, 2020 | 0m
 September 24, 2020 | 1h
 
 
-# I gave up counting but I still continnue studying WebGL
+# I gave up counting but I still continue studying WebGL
