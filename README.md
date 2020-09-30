@@ -119,3 +119,6 @@ September 21, 2020 | 0m
 September 22, 2020 | 0m
 September 23, 2020 | 0m
 September 24, 2020 | 1h
+
+
+# I gave up counting but I still continnue studying WebGL
